@@ -1,0 +1,9 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# go source files
+*.go    text
+
+# markdown and license
+LICENSE text
+*.md    text
