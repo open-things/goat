@@ -3,7 +3,7 @@ package goat_test
 import (
 	check "gopkg.in/check.v1"
 
-	"github.com/Paulius-Maruska/goat"
+	"github.com/open-things/goat"
 )
 
 type UtilsReplaceAllSuite struct{}
